@@ -5,7 +5,7 @@ on:
     branches:
       - main
 env:
-  IMAGE_NAME: "yuhenaditya/2048-btatest"
+  IMAGE_NAME: "yuhenadit/2048-btatest"
 jobs:
   build-push-image:
     runs-on: self-hosted
